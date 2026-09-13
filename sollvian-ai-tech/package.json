@@ -1,0 +1,19 @@
+{
+  "name": "sollvian-ai-tech",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sollvian AI Tech one-page site: Home, Product, Contact.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "server.js",
+    "public",
+    "README.md"
+  ]
+}
